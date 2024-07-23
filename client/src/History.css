@@ -1,0 +1,22 @@
+/* src/History.css */
+
+.history-container {
+    padding: 20px;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .log-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .log-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }

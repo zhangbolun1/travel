@@ -1,0 +1,16 @@
+/* Map.css */
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+.red-highlight {
+  color: red;
+  font-size: 1.2em;
+}
+
+.search-input {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: calc(100% - 10px);
+}
